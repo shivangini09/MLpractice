@@ -5,7 +5,7 @@ This repo is meant to track my learning progress, test new ideas, and build stro
 
 ---
 
-## 🧠 Overview
+##  Overview
 
 This repository includes:
 - Implementations of **classical ML algorithms** from scratch and using **Scikit-learn**.
